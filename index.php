@@ -10,7 +10,7 @@
 
  	</head>
  	<body>
-		<nav class="navbar navbar-default">
+		<nav class="navbar navbar-inverse">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -20,7 +20,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#"><img src="images/logo.png" align="centre"></a>
+      <a class="navbar-brand" href="#"><img src="images/logo.png"></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -66,8 +66,15 @@
  		
  	<div class="container">	
  		<div class="row">
+ 			<h1>Hello, Best Friend!</h1>
 
- 		<h1>Hello, World!</h1>
+ 			<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4"> 
+
+ 		 	</div>
+ 			<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4"> 
+ 			</div>
+ 		<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4"> 
+ 			</div>
  		</div>
  	</div>	
  	
