@@ -1,0 +1,32 @@
+body{
+	background-color: grey;
+
+}
+.navbar-header{
+	background-color: yellow;
+}
+.container{
+	width:60%;
+
+}
+/*
+div{
+	background-color: white;
+
+}
+*/
+div#poem{
+	background-color: red;
+
+}
+.poem{
+
+	color: green;
+}
+.navbar-brand{
+	padding-top:0;
+	margin-top: 0;
+}
+.navbar-brand img{
+	padding-left: 15px;
+}
